@@ -1,0 +1,17 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+*.env
+
+# IDE specific files
+.idea/
+*.sublime-workspace
+*
+# Logs
+*.log
